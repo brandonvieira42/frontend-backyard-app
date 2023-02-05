@@ -2,9 +2,9 @@
 // `ng build` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
 
-// const apiBaseUrl: string = 'http://backyardwedding-env.eba-a9satvjy.us-east-1.elasticbeanstalk.com/'
-const apiBaseUrl: string = 'http://localhost:8080'
-const APPLICATION_NAME: string = '/wedding'
+const apiBaseUrl: string = 'https://the-backyard-wedding-app-backend-production.up.railway.app'
+// const apiBaseUrl: string = 'localhost:8080'
+const APPLICATION_NAME: string = ''
 
 export const environment = {
   production: false,
